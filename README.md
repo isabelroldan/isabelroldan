@@ -4,15 +4,11 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+40k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 📲 Desarrolladora de Aplicaciones Multiplataforma
+- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba" target="_blank"> Linkedin </a>
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *estrella* ⭐
 <table>
 <tr>
 <td width="50%">
@@ -45,31 +41,11 @@
 </a>
 
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Presento dos enlaces que destacan proyectos de prueba enfocados en el manejo de notas. En el primero, se ha implementado un CRUD básico utilizando Angular 17, mientras que en el segundo, hemos empleado Ionic sobre Angular para ofrecer una experiencia más atractiva en dispositivos móviles. También incluye funcionalidades avanzadas, como la capacidad de acceder a la cámara. Además, se ha integrado la posibilidad de registrar descripciones mediante comandos de voz, y la aplicación guarda la ubicación de forma precisa, la cual se visualiza a través de un mapa interactivo..</p>
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Presento dos enlaces que destacan proyectos de prueba enfocados en el manejo de notas. En el primero, se ha implementado un CRUD básico utilizando Angular 17, mientras que en el segundo, hemos empleado Ionic sobre Angular para ofrecer una experiencia más atractiva en dispositivos móviles. También incluye funcionalidades avanzadas, como la capacidad de acceder a la cámara. Además, se ha integrado la posibilidad de registrar descripciones mediante comandos de voz, y la aplicación guarda la ubicación de forma precisa, la cual se visualiza a través de un mapa interactivo.</p>
-</div>
-                                                                                      
-</td>        
-</table>                                                                                 
+<br>                                                                               
 </div>
 <br>
 
