@@ -3,15 +3,21 @@
   <img src="./github-header-image.png">
 </div>
 
-<div align="center">
-<h1 align="center">Hola, soy <a href="www.linkedin.com/in/isabel-roldan-cordoba">Isabel Roldán</a> 👋</h1>
-</div>
 
-## Sobre mi
+  
 
-- 📲 Desarrolladora de Aplicaciones Multiplataforma
-- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba" target="_blank"> Linkedin </a>
-<br>
+  <p align="left">- 📲 Desarrolladora de Aplicaciones Multiplataforma</p>
+  <p align="left">- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba" target="_blank"> Linkedin </a></p>
+
+  
+
+  <img align="right" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+    
+
+
+
+
+
 
 ## Proyectos *estrella* ⭐
 <table>
