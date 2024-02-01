@@ -1,4 +1,7 @@
-![Header](./your-header-image-name.png)
+
+<div align="center">
+  <img src="./github-header-image.png">
+</div>
 
 <div align="center">
 <h1 align="center">Hola, soy <a href="www.linkedin.com/in/isabel-roldan-cordoba">Isabel Roldán</a> 👋</h1>
