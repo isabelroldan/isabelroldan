@@ -1,25 +1,38 @@
 
 <div align="center">
-  <img src="./github-header-image.png">
+  <img src="./header.png">
 </div>
-
-
-  
-
-  <p align="left">- 📲 Desarrolladora de Aplicaciones Multiplataforma</p>
-  <p align="left">- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba" target="_blank"> Linkedin </a></p>
-
+</br>
+</br>
   
 
   <img align="right" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
-    
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  <p align="left">- 📲 Desarrolladora de Aplicaciones Multiplataforma</p>
+  <p align="left">- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba" target="_blank"> Linkedin </a></p>
+
+  <p align="left">- 👩‍💻 
+    <a href="https://github.com/isabelroldan/isabelroldan/blob/main/CVIsabelRC.pdf" target="_blank"> Download my Curriculum Vitae and get to know me a little better, so you can access all the links.
+    </a>
+  </p>    
+  <p>I am a dynamic and highly restless person with a strong background in Multiplatform Application Development. My experience in Image Consulting enables me to approach projects from a creative perspective and with a focus on usability. </p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 
-
-
-
-## Proyectos *estrella* ⭐
+## *Star Projects* ⭐
 <table>
 <tr>
 <td width="50%">
@@ -31,7 +44,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Estoy actualmente involucrado en el desarrollo de un proyecto destinado al cuerpo docente de diversos institutos. Este proyecto tiene como objetivo principal la extracción y visualización de datos mediante la implementación de varios requisitos clave. Nuestra iniciativa central se centra en la creación dinámica de formularios, respaldada por un sistema intuitivo que permite a los usuarios diseñar fórmulas personalizadas. Esta funcionalidad se presenta a través de una calculadora intuitiva que facilita la creación y aplicación de fórmulas específicas según las necesidades individuales del usuario.</p>
+<p>I am currently involved in the development of a project aimed at the teaching staff of various institutes. The main objective of this project is the extraction and visualization of data through the implementation of several key requirements. Our central initiative focuses on the dynamic creation of forms, supported by an intuitive system that allows users to design custom formulas. This functionality is presented through an intuitive calculator that facilitates the creation and application of specific formulas according to the individual needs of the user.</p>
 </div>
                                                                                       
 </td>
@@ -52,7 +65,7 @@
 </a>
 
 </p>
-</p>Presento dos enlaces que destacan proyectos de prueba enfocados en el manejo de notas. En el primero, se ha implementado un CRUD básico utilizando Angular 17, mientras que en el segundo, hemos empleado Ionic sobre Angular para ofrecer una experiencia más atractiva en dispositivos móviles. También incluye funcionalidades avanzadas, como la capacidad de acceder a la cámara. Además, se ha integrado la posibilidad de registrar descripciones mediante comandos de voz, y la aplicación guarda la ubicación de forma precisa, la cual se visualiza a través de un mapa interactivo..</p>
+</p>I present two links that highlight test projects focused on grade management. In the first one, a basic CRUD has been implemented using Angular 17, while in the second one, we have used Ionic on top of Angular to provide a more engaging experience on mobile devices. It also includes advanced features such as the ability to access the camera. Additionally, the option to record descriptions using voice commands has been integrated, and the application accurately saves the location, which is visualized through an interactive map.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
