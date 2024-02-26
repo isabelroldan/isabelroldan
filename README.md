@@ -39,9 +39,11 @@
 <div align="center">
 <a href="https://github.com/Elcheno/PandaFit" target="_blank"><img src="https://netsuiteblogs.curiousrubik.com/hubfs/WIP.png" width="400" alt="PandaFit"></a>
 <p>
+  BACKEND:
 <a href="https://github.com/Elcheno/PandaFit" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+  FRONTEND:
 <a href="https://github.com/Elcheno/PandaFit-Frontend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
