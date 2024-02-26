@@ -35,20 +35,29 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">PandaFit</h3>
+<h3 align="center">PandaFit 🐼</h3>
 <div align="center">
 <a href="https://github.com/Elcheno/PandaFit" target="_blank"><img src="https://netsuiteblogs.curiousrubik.com/hubfs/WIP.png" width="400" alt="PandaFit"></a>
 <p>
-  BACKEND:
+  Backend:
 <a href="https://github.com/Elcheno/PandaFit" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-  FRONTEND:
+  Frontend:
 <a href="https://github.com/Elcheno/PandaFit-Frontend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>I am currently involved in the development of a project aimed at the teaching staff of various institutes. The main objective of this project is the extraction and visualization of data through the implementation of several key requirements. Our central initiative focuses on the dynamic creation of forms, supported by an intuitive system that allows users to design custom formulas. This functionality is presented through an intuitive calculator that facilitates the creation and application of specific formulas according to the individual needs of the user.</p>
+<p>This project arose from the need in various institutes offering degrees in dietetics and sports. They needed an application that would allow students to complete forms with questions about their diet and lifestyle, in order to generate reports on their health status.
+
+🔧 Technologies Used:
+Frontend: Angular and Tailwind, for a dynamic and intuitive interface.
+Backend: Spring Boot, for robust and scalable performance.
+Databases: PostgreSQL, the engine that supports our data storage and analysis functions.
+
+🌟 Project Highlights:
+User management with differentiated roles: We allow the creation of users with different roles, as degree students need access to study the information.
+Dynamic forms: It enables the dynamic creation of forms, combining different previously defined fields and selecting which information will be included in the final reports.</p>
 </div>
                                                                                       
 </td>
