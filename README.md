@@ -42,6 +42,9 @@
 <a href="https://github.com/Elcheno/PandaFit" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://github.com/Elcheno/PandaFit-Frontend" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
 <p>I am currently involved in the development of a project aimed at the teaching staff of various institutes. The main objective of this project is the extraction and visualization of data through the implementation of several key requirements. Our central initiative focuses on the dynamic creation of forms, supported by an intuitive system that allows users to design custom formulas. This functionality is presented through an intuitive calculator that facilitates the creation and application of specific formulas according to the individual needs of the user.</p>
 </div>
