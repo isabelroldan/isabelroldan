@@ -13,7 +13,7 @@
   </br>
  
   <p align="left">- 📲 Desarrolladora de Aplicaciones Multiplataforma</p>
-  <p align="left">- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba" target="_blank"> Linkedin </a></p>
+  <p align="left">- 👩‍💻 <a href="www.linkedin.com/in/isabel-roldan-cordoba/" target="_blank"> Linkedin </a></p>
 
   <p align="left">- ✏ 
     <a href="https://github.com/isabelroldan/isabelroldan/blob/main/CVIsabelRC.pdf" target="_blank"> Download my Curriculum Vitae and get to know me a little better, so you can access all the links.
